@@ -102,9 +102,6 @@ python manage.py runserver
 - Bootstrap 5 (via CDN, for frontend styling)
 - Font Awesome (via CDN, for icons)
 
-## License
-
-MIT License (or specify your license)
 
 ---
 
